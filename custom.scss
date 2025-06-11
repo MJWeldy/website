@@ -40,9 +40,9 @@ html {
 
 body {
   font-family: $font-family-sans-serif;
-  background-color: $light-gray;
+  background-color: white;
   color: $dark-charcoal;
-  line-height: $line-height-base;
+  line-height: 1.7;
 }
 
 // Clean, modern navigation
@@ -113,38 +113,38 @@ a {
   max-width: 1200px;
 }
 
-// Card-like sections
+// Minimal sections
 .card, .callout {
   background: white;
-  border: none;
-  border-radius: $border-radius;
-  box-shadow: 0 4px 20px rgba($dark-charcoal, 0.08);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid rgba($sage-green, 0.1);
+  border-radius: 6px;
+  box-shadow: none;
+  transition: border-color 0.2s ease;
   
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 30px rgba($dark-charcoal, 0.12);
+    border-color: rgba($sage-green, 0.2);
   }
 }
 
-// About section styling
+// Clean about section
 .quarto-about-trestles {
   .about-entity {
-    background: white;
-    border-radius: $border-radius-lg;
-    padding: 2rem;
-    box-shadow: 0 8px 40px rgba($dark-charcoal, 0.08);
-    border: 1px solid rgba($sage-green, 0.1);
+    background: transparent;
+    border-radius: 0;
+    padding: 0;
+    box-shadow: none;
+    border: none;
   }
   
   .about-image img {
     border-radius: 50%;
-    border: 4px solid $sage-green;
-    box-shadow: 0 8px 30px rgba($teal-gray, 0.2);
+    border: 3px solid $sage-green;
+    box-shadow: 0 4px 20px rgba($teal-gray, 0.15);
     transition: transform 0.3s ease;
+    max-width: 180px;
     
     &:hover {
-      transform: scale(1.05);
+      transform: scale(1.02);
     }
   }
 }
