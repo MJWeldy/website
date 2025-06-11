@@ -1,0 +1,71 @@
+---
+title: "About"
+---
+
+## Background
+
+I am a wildlife ecologist and data scientist specializing in bioacoustics, machine learning, and conservation biology. Currently pursuing my PhD in Forest Ecosystems and Society at Oregon State University, I work at the intersection of technology and wildlife conservation to develop innovative solutions for monitoring and protecting threatened species.
+
+## Education
+
+### Current
+**Doctor of Philosophy in Forest Ecosystems and Society** (2021–Present)  
+*Oregon State University*  
+Advisors: Dr. Matthew G. Betts, Dr. Damon B. Lesmeister  
+GPA: 3.86
+
+### Previous Education
+**Master of Science in Wildlife Science** (2015–2018)  
+*Oregon State University, Department of Fisheries and Wildlife*  
+Advisor: Dr. Clinton W. Epps  
+GPA: 3.86  
+Thesis: "Spatiotemporal associations of abundance and vital rates of co-occurring small mammals in a late successional forest"
+
+**Geographic Information Systems Certificate** (2012–2013)  
+*California State University, Fresno*  
+GPA: 3.75
+
+**Bachelor of Science in Plant Biology** (2004–2009)  
+*University of Minnesota, College of Biological Sciences*  
+GPA: 3.47
+
+## Technical Skills
+
+### Programming & Analysis
+- **Languages**: R, Python, Julia, BUGS (JAGS, MultiBUGS), Stan
+- **Machine Learning**: PyTorch, Keras, TensorFlow, Jax
+- **Statistics**: Bayesian modeling, mark-recapture analysis, occupancy modeling
+- **Spatial Analysis**: ArcGIS, QGIS, remote sensing
+
+### Field & Laboratory
+- **Bioacoustics**: Passive acoustic monitoring, sound analysis, equipment deployment
+- **Wildlife Techniques**: Live-trapping, radio telemetry, point counts, camera trapping
+- **Habitat Assessment**: Vegetation sampling, environmental monitoring
+- **Field Equipment**: 4WD/ATV operation, small machinery, electronics maintenance
+
+## Professional Experience
+
+**Oak Ridge Institute for Science and Education** (2019–Present)  
+*USDA Forest Service, Pacific Northwest Research Station*  
+- Develop machine learning approaches for bioacoustics analysis
+- Conduct Bayesian analysis of mark-recapture and occupancy data
+- Provide statistical support for research collaborations
+
+**Faculty Research Assistant** (2018–2019)  
+*Oregon State University*  
+- Analyzed mark-recapture, species distribution, and landscape genetics data
+- Prepared manuscripts for peer-reviewed publication
+
+**Independent Environmental Consultant** (2013–2019)  
+- Supported environmental impact assessments for private and utility projects
+- Specialized in threatened species surveys and compliance monitoring
+
+## Awards & Recognition
+
+- **Ph.D. Student Achievement Award**, College of Forestry, Oregon State University (2023)
+- **Jack & Lila Saubert Scholarship**, Oregon State University (2023) - $2,000
+- **Arnold and Vera Meier Forestry Education Scholarship**, Oregon State University (2023) - $2,000
+
+## Location
+
+Currently based in **Port Townsend, Washington**, conducting field research throughout the Pacific Northwest and collaborating with research teams across North America and internationally.

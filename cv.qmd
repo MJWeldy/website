@@ -1,0 +1,121 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    page-layout: full
+---
+
+# MATTHEW J. WELDY
+**ECOLOGY | ANALYTICS | WILDLIFE | GEOSPATIAL**
+
+Port Townsend, WA | +1 (651) 210-8959 | MatthewJWeldy@gmail.com | [ResearchGate](https://www.researchgate.net/profile/Matthew-Weldy)
+
+---
+
+## CURRENT EDUCATION & POSITION
+
+**Doctor of Philosophy in Forest Ecosystems and Society** (2021–Present)  
+*Oregon State University, Department of Forest Ecosystems and Society*  
+Advisors: Dr. Matthew G. Betts, Dr. Damon B. Lesmeister  
+GPA: 3.86
+
+**PhD Candidate** (2021–Present)  
+*Oregon State University*  
+Developing machine learning and probabilistic tools to process and analyze bioacoustics data.
+
+**Research Fellow** (2019–Present)  
+*Oak Ridge Institute for Science and Education*  
+*USDA Forest Service, Pacific Northwest Research Station*  
+Developed machine learning approaches to analyze avian bioacoustics data and conducted Bayesian analysis of mark-recapture and occupancy data. Prepared analyses for peer-reviewed publication. Provided regular statistical support for lab members and external collaborators.
+
+---
+
+## SELECTED PUBLICATIONS
+
+### Peer-Reviewed (Recent)
+
+1. **Balvanera, S. M.**, O. M. Aodha, **M. J. Weldy**, H. Pringle, E. Browning, and K. E. Jones. 2025. Whombat: An open‐source audio annotation tool for machine learning assisted bioacoustics. *Methods in Ecology and Evolution* 16:19-28.
+
+2. **Navine, A. K.**, R. J. Camp, **M. J. Weldy**, T. Denton, and P. J. Hart. 2024. Counting the chorus: A bioacoustic indicator of population density. *Ecological Indicators* 169: 112930.
+
+3. **Knight, E. C.**, T. Rhinehart, D. R. de Zwaan, **M. J. Weldy**, M. Cartwright, S. H. Hawley, J. L. Larkin, D. B. Lesmeister, E. M. Bayne, and J. Kitzes. 2024. Individual identification in acoustic recordings. *Trends in Ecology and Evolution*.
+
+4. **Weldy M. J.**, T. Denton, A. B. Fleishman, J. Tolchin, M. McKown, R. S. Spaan, Z. J. Ruff, J. M. A. Jenkins, M. G. Betts, and D. B. Lesmeister. 2024. Audio tagging of avian dawn chorus recordings in California, Oregon, and Washington. *Biodiversity Data Journal* 12: e118315.
+
+5. **Duarte, A.**, **M. J. Weldy**, D. B. Lesmeister, Z. J. Ruff, J. J. Jenkins, J. J. Valente, and M. G. Betts. 2024. Passive acoustic recorders and convolutional neural networks facilitate near real-time monitoring of marbled murrelets across forested landscapes. *Ecological Indicators* 162: 112016.
+
+*Total: 15+ peer-reviewed publications*
+
+---
+
+## RECENT PRESENTATIONS
+
+1. ***Weldy, M. J.***, M. G. Betts, D. B. Lesmeister, A. Duarte, and T. Denton. Using passive acoustic monitoring to estimate behavioral states and link them to conservation indicators. **Invited talk**. The Ecological Society of America Annual Meeting, Inspire Session, 2024.
+
+2. ***Weldy, M. J.*** 2024. Integrating historic northern spotted owl territory and bioacoustic data in multi-state occupancy. **Invited talk**. 2024 Annual Meeting of the Interagency Northern Spotted Owl Monitoring Program.
+
+3. ***Weldy, M. J.***, A. Duarte, D. B. Lesmeister, and M. G. Betts. Discerning use and site occupancy for marbled murrelets using passive acoustic monitoring. **Poster**. Oregon Chapter of The Wildlife Society Annual Meeting, 2024.
+
+---
+
+## AWARDS & SCHOLARSHIPS
+
+- **Ph.D. Student Achievement Award**, College of Forestry, Oregon State University (2023)
+- **Jack & Lila Saubert Scholarship**, Oregon State University (2023) - $2,000
+- **Arnold and Vera Meier Forestry Education Scholarship**, Oregon State University (2023) - $2,000
+
+---
+
+## TECHNICAL SKILLS
+
+**Programming Languages**: R, Python, Julia, BUGS (JAGS, MultiBUGS), Stan, PyTorch, Keras, TensorFlow, Jax
+
+**Software**: Microsoft Office, ArcGIS, QGIS, MicroStation
+
+**Statistical Methods**: Bayesian modeling, machine learning, mark-recapture analysis, occupancy modeling, species distribution modeling
+
+**Field Techniques**: Passive acoustic monitoring, wildlife telemetry, live-trapping, camera trapping, vegetation sampling
+
+---
+
+## PREVIOUS EDUCATION
+
+**Master of Science in Wildlife Science** (2015–2018)  
+*Oregon State University, Department of Fisheries and Wildlife*  
+Advisor: Dr. Clinton W. Epps, GPA: 3.86  
+Thesis: "Spatiotemporal associations of abundance and vital rates of co-occurring small mammals in a late successional forest"
+
+**Geographic Information Systems Certificate** (2012–2013)  
+*California State University, Fresno*, GPA: 3.75
+
+**Bachelor of Science in Plant Biology** (2004–2009)  
+*University of Minnesota, College of Biological Sciences*, GPA: 3.47
+
+---
+
+## PROFESSIONAL SERVICE
+
+**Peer Reviewer**: Diversity and Distributions, Ecology and Evolution, Ecological Indicators, Journal of Mammalogy, Journal of Wildlife Management, Landscape Ecology, Northwest Science, PLOS ONE, Wildlife Society Bulletin
+
+**Academic Service**: Letters of support for promotion and tenure committees, graduate student mentorship program
+
+---
+
+## TEACHING EXPERIENCE
+
+**Invited Tutorial** (2021)  
+*Adams Lab* - "Amphibian audio classification"
+
+**Instructor** (2015–2018)  
+*Mammalogy, Oregon State University FW 317* - Online Mammalogy instructor
+
+**Teaching Assistant** (2018–2019)  
+*Mammalogy, Oregon State University FW 317*
+
+---
+
+*For complete publication list and detailed experience, please contact me directly.*
+
+---
+
+**Download PDF Version**: [CV.pdf](files/Weldy_CV_2025.pdf)

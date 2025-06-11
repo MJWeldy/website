@@ -1,0 +1,86 @@
+---
+title: "Research"
+---
+
+## Research Focus
+
+My research integrates cutting-edge technology with conservation biology to address critical challenges in wildlife monitoring and ecosystem management. I specialize in developing machine learning and probabilistic tools for analyzing bioacoustic data, with applications to threatened species conservation and landscape-scale ecological monitoring.
+
+## Current Projects
+
+### Bioacoustic Monitoring of Threatened Species
+
+**Northern Spotted Owl Population Dynamics**  
+Developing integrated approaches combining historical territory data with passive acoustic monitoring to assess population trends and occupancy patterns of this federally threatened species.
+
+**Marbled Murrelet Forest Habitat Use**  
+Using convolutional neural networks and passive acoustic recorders to facilitate near real-time monitoring of marbled murrelets across forested landscapes, enabling better understanding of terrestrial habitat requirements.
+
+### Machine Learning for Bioacoustics
+
+**Audio Classification Under Data Scarcity**  
+Developing simulated soundscape approaches to improve acoustic classifier performance when training data is limited, with applications to rare species detection.
+
+**Individual Identification in Acoustic Recordings**  
+Contributing to advancing methods for individual animal identification using acoustic signatures, with implications for demographic studies and population monitoring.
+
+### Bayesian Statistical Methods
+
+**Multi-state Occupancy Modeling**  
+Developing methods to integrate long-term monitoring data across different survey methodologies, addressing spatial mismatch and methodological transitions in wildlife monitoring programs.
+
+**Mark-Recapture Analysis**  
+Investigating emigration effects on survival estimates and developing improved analytical approaches for small mammal demographic studies.
+
+## Research Themes
+
+### 1. Conservation Technology
+- **Passive Acoustic Monitoring**: Deploying automated recording systems for continuous wildlife monitoring
+- **Machine Learning Applications**: Developing AI tools for species detection and behavior classification
+- **Remote Sensing Integration**: Combining acoustic data with satellite and LiDAR data for landscape-scale analysis
+
+### 2. Population Ecology
+- **Demographic Modeling**: Understanding vital rates and population dynamics of threatened species
+- **Occupancy Analysis**: Assessing species distribution patterns and habitat relationships
+- **Survival Analysis**: Investigating factors affecting wildlife survival and reproduction
+
+### 3. Landscape Ecology
+- **Habitat Fragmentation**: Examining effects of forest management on wildlife populations
+- **Multi-scale Analysis**: Connecting local habitat features to landscape-scale patterns
+- **Climate Change Impacts**: Assessing species responses to environmental change
+
+## International Collaborations
+
+### African Wildlife Conservation
+Collaborating on wildlife monitoring projects in Malawi's Nkhotakota Wildlife Reserve, including:
+- African elephant abundance estimation
+- Large mammal population assessments
+- Passive acoustic monitoring pilot studies
+
+### Global Soundscape Analysis
+Contributing to worldwide syntheses of passive acoustic monitoring across terrestrial and aquatic realms, advancing our understanding of global biodiversity patterns.
+
+## Methodological Innovations
+
+### Statistical Methods
+- **Bayesian Hierarchical Models**: Advanced modeling frameworks for complex ecological data
+- **Multi-species Analysis**: Developing methods to analyze community-level responses
+- **Uncertainty Quantification**: Incorporating multiple sources of uncertainty in ecological predictions
+
+### Technology Development
+- **Automated Detection Algorithms**: Creating species-specific detection systems
+- **Data Processing Pipelines**: Developing efficient workflows for large-scale acoustic data analysis
+- **Quality Control Methods**: Establishing protocols for acoustic data validation and error assessment
+
+## Future Directions
+
+My research continues to evolve at the intersection of ecology, technology, and conservation, with ongoing work focusing on:
+
+- **Real-time Monitoring Systems**: Developing near real-time species detection capabilities
+- **Multi-sensor Integration**: Combining acoustic, visual, and environmental sensors
+- **Predictive Modeling**: Using machine learning for forecasting species responses to environmental change
+- **Open Science Tools**: Contributing to open-source software for bioacoustic analysis
+
+---
+
+*For detailed methodology and results, see my [Publications](publications.qmd) page.*

@@ -1,0 +1,85 @@
+/* Custom CSS for the academic website */
+
+/* Color scheme */
+:root {
+  --primary-color: #2c5aa0;
+  --secondary-color: #8fbc8f;
+  --accent-color: #d2691e;
+  --text-color: #333;
+  --bg-color: #ffffff;
+}
+
+/* General styling */
+body {
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+/* Navigation */
+.navbar {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  color: var(--primary-color) !important;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+/* Profile image on home page */
+.quarto-about-trestles .about-image {
+  border: 3px solid var(--primary-color);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Publication list styling */
+.publications li {
+  margin-bottom: 1em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+/* Code blocks */
+.sourceCode {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 0.375rem;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #f8f9fa;
+}
+
+/* Footer */
+.nav-footer {
+  border-top: 1px solid #e0e0e0;
+  background-color: #f8f9fa;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .quarto-about-trestles .about-contents {
+    flex-direction: column;
+  }
+  
+  .quarto-about-trestles .about-image {
+    margin-bottom: 1rem;
+  }
+}

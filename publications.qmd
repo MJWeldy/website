@@ -1,0 +1,91 @@
+---
+title: "Publications"
+---
+
+## Peer-Reviewed Publications
+
+### 2025
+
+**Balvanera, S. M.**, O. M. Aodha, **M. J. Weldy**, H. Pringle, E. Browning, and K. E. Jones. 2025. Whombat: An open‐source audio annotation tool for machine learning assisted bioacoustics. *Methods in Ecology and Evolution* 16:19-28. DOI: [10.1111/2041-210X.14468](https://doi.org/10.1111/2041-210X.14468)
+
+### 2024
+
+**Navine, A. K.**, R. J. Camp, **M. J. Weldy**, T. Denton, and P. J. Hart. 2024. Counting the chorus: A bioacoustic indicator of population density. *Ecological Indicators* 169: 112930. DOI: [10.1016/j.ecolind.2024.112930](https://doi.org/10.1016/j.ecolind.2024.112930)
+
+**Barry, B.**, J. Holbrook, J. Vogeler, L. Elliott, **M. J. Weldy**, D. B. Lesmeister, C. W. Epps, T. W. Wilson, and K. Vierling. 2024. Using spaceborne LiDAR to reveal drivers of animal demography. *Ecological Applications* 34: e3048. DOI: [10.1002/eap.3048](https://doi.org/10.1002/eap.3048)
+
+**Knight, E. C.**, T. Rhinehart, D. R. de Zwaan, **M. J. Weldy**, M. Cartwright, S. H. Hawley, J. L. Larkin, D. B. Lesmeister, E. M. Bayne, and J. Kitzes. 2024. Individual identification in acoustic recordings. *Trends in Ecology and Evolution*. DOI: [10.1016/j.tree.2024.05.007](https://doi.org/10.1016/j.tree.2024.05.007)
+
+**Weldy M. J.**, T. Denton, A. B. Fleishman, J. Tolchin, M. McKown, R. S. Spaan, Z. J. Ruff, J. M. A. Jenkins, M. G. Betts, and D. B. Lesmeister. 2024. Audio tagging of avian dawn chorus recordings in California, Oregon, and Washington. *Biodiversity Data Journal* 12: e118315. DOI: [10.3897/BDJ.12.e118315](https://doi.org/10.3897/BDJ.12.e118315)
+
+**Duarte, A.**, **M. J. Weldy**, D. B. Lesmeister, Z. J. Ruff, J. J. Jenkins, J. J. Valente, and M. G. Betts. 2024. Passive acoustic recorders and convolutional neural networks facilitate near real-time monitoring of marbled murrelets across forested landscapes. *Ecological Indicators* 162: 112016. DOI: [10.1016/j.ecolind.2024.112016](https://doi.org/10.1016/j.ecolind.2024.112016)
+
+**Navine, A. K.**, T. Denton, **M. J. Weldy**, and P. J. Hart. 2024. All thresholds Barred: Direct estimation of call density in bioacoustic data. *Frontiers in Bird Science* 3. DOI: [10.3389/fbirs.2024.1380636](https://doi.org/10.3389/fbirs.2024.1380636)
+
+### 2023
+
+**Epps, C. W.**, R. S. Crowhurst, R. S. Spaan, **M. J. Weldy**, H. F. Tavalire. 2023. Influence on climate and landscape on genetic differentiation of aardvarks (*Orycteropus afer*). *Diversity and Distributions* 00:1-16. DOI: [10.1111/ddi.13792](https://doi.org/10.1111/ddi.13792)
+
+**Valente J. J.**, D. G. Gannon, J. Hightower, H. Kim, K. G. Leimberger, R. Macedo, J. Rousseau, **M. J. Weldy**, R. Zitomer, L. Fahrig, R. J. Fletcher Jr., J. Wu, M. G. Betts. 2023. Toward conciliation in the habitat fragmentation and biodiversity debate. *Landscape Ecology* 38: 2717-2730. DOI: [10.1007/s10980-023-01708-9](https://doi.org/10.1007/s10980-023-01708-9)
+
+**Weldy, M. J.**, D. B. Lesmeister, C. B. Yackulic, C. L. Appel, C. McCafferty, and J. D. Wiens. 2023. Long-term monitoring in transition: Resolving spatial mismatch and integrating multistate occupancy data. *Ecological Indicators* 146: 109815. DOI: [10.1016/j.ecolind.2022.109815](https://doi.org/10.1016/j.ecolind.2022.109815)
+
+**Appel, C. L.**, D. B. Lesmeister, A. Duarte, R. J. Davis, **M. J. Weldy**, and T. Levi. 2023. Using passive acoustic monitoring to estimate northern spotted owl landscape use and pair occupancy. *Ecosphere* 14(2): e4421. DOI: [10.1002/ecs2.4421](https://doi.org/10.1002/ecs2.4421)
+
+### 2022
+
+**Painter, L. E.**, **M. J. Weldy**, R. S. Crowhurst, L. N. Carraway, and C. W. Epps. 2022. Landscape genetics of the camas pocket gopher (*Thomomys bulbivorus*), an endemic mammal of Oregon's Willamette Valley. *Western North American Naturalist* 82(3): 479–493. DOI: [10.3398/064.082.0305](https://doi.org/10.3398/064.082.0305)
+
+**Weldy, M. J.**, C. W. Epps, D. B. Lesmeister. 2022. Emigration effects on estimates of age- and sex-specific survival of two sciurids. *Ecology and Evolution* 12: e883. DOI: [10.1002/ece3.8833](https://doi.org/10.1002/ece3.8833)
+
+**Milward L. S.**, T. M. Wilson, **M. J. Weldy**, M. M. Rowland, A. Duarte, D. B. Lesmeister, and W. J. Ripple. 2022. Small mammal relative abundance within riparian ecosystems of the Blue Mountains. *Forest Ecology and Management* 505: 119899. DOI: [10.1016/j.foreco.2021.119899](https://doi.org/10.1016/j.foreco.2021.119899)
+
+### 2021
+
+**Epps, C. W.**, V. M. Petro, T. G. Creech, R. S. Crowhurst, **M. J. Weldy**, and J. D. Taylor. 2021. Landscape genetics of American beaver in Coastal Oregon. *Journal of Wildlife Management* 85: 1462–1475. DOI: [10.1002/jwmg.22102](https://doi.org/10.1002/jwmg.22102)
+
+**Epps, C. W.**, **M. J. Weldy**, R. S. Crowhurst, and R. S. Spaan. 2021. Estimating the distribution and habitat suitability of aardvarks (*Orycteropus afer*) in Kruger National Park, South Africa. *African Journal of Ecology* 59: 854–865. DOI: [10.1111/aje.12916](https://doi.org/10.1111/aje.12916)
+
+### 2020
+
+**Weldy, M. J.**, C. W. Epps, D. B. Lesmeister, T. Manning, and E. D. Forsman. 2020. Spatiotemporal dynamics in vital rates of Humboldt's Flying Squirrels and Townsend's Chipmunks in late successional forests. *Journal of Mammalogy* 101: 187–198. DOI: [10.1093/jmammal/gyz204](https://doi.org/10.1093/jmammal/gyz204)
+
+### 2019
+
+**Weldy, M. J.**, T. M. Wilson, D. B. Lesmeister, and C. W. Epps. 2019. Effects of trapping effort and trap placement on estimating abundance of Humboldt's Flying Squirrels. *PeerJ* 7: e7783. DOI: [10.7717/peerj.7783](https://doi.org/10.7717/peerj.7783)
+
+**Weldy, M. J.**, C. W. Epps, D. B. Lesmeister, T. Manning, M. A. Linnell, and E. D. Forsman. 2019. Abundance and ecological associations of small mammals. *Journal of Wildlife Management* 83: 902–915. DOI: [10.1002/jwmg.21641](https://doi.org/10.1002/jwmg.21641)
+
+## In Press
+
+**Darras, K. F. A.**, R. A. Rountree, S. L. V. Wilgenburg, ... **M. J. Weldy**, ..., C. W. Martin. In Press. Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. *Global Ecology and Biogeography*.
+
+## Manuscripts in Review
+
+1. **Weldy, M. J.**, et al. In Review. Simulated soundscapes boost the performance of acoustic classifiers under data scarcity.
+
+2. **Anselmetto, N.**, **M. J. Weldy**, et al. In Review. An evaluation of microclimate-based distribution modelling in a multi-taxa system.
+
+3. **Tosa, M. I.**, **M. J. Weldy**, D. B. Lesmeister, C. W. Epps, D. J. Morin, and T. R. Levi. In Review. Assessing unmarked models for estimating density of small mammals using camera traps.
+
+## Manuscripts in Preparation
+
+1. **Lesmeister, D. B.**, C. B. Yackulic, **Weldy, M. J.**, and others. In Prep. Northern spotted owl occupancy dynamics across a methodological transition.
+
+2. **Weldy, M. J.**, N. Ferrari, S. Lapp, T. Rhinehart, A. Juncosa, E. K. Knight, S. M. Balvanera, K. Kelly, T. Denton, M. G. Betts, D. B. Lesmeister, and others. Developmental guidelines for terrestrial bioacoustic programs.
+
+3. **Betts, M. G.**, **M. J. Weldy**, and others. In Prep. Post-fire recovery in the H. J. Andrews Experimental Forest.
+
+## Technical Reports
+
+Recent technical reports focusing on wildlife monitoring and conservation applications:
+
+- **Lesmeister, D. B.**, C. L. Appel, **M. J. Weldy**, and M. Ngosi. 2024. African Elephant (*Loxodonta africana*) Abundance Estimates at Nkhotakota Wildlife Reserve, 2019–2023. USDA Forest Service, Pacific Northwest Research Station.
+
+- **Duarte, A.**, B. Vernasco, **M. J. Weldy**, R. S. Spaan, and J. Ratliff. 2024. Northern Blue Mountains Wildlife Monitoring, 2022-2023. USDA Forest Service, Pacific Northwest Research Station.
+
+- **Lesmeister, D. B.**, Z. J. Ruff, **M. J. Weldy**, A. Habib, C. Gates, N. Rugg, H. Hester, and A. Chibwana. 2024. Passive acoustic monitoring in Malawi: A pilot study. USDA Forest Service, Pacific Northwest Research Station.
+
+---
+
+*For a complete list of publications and technical reports, see my [CV](cv.qmd).*

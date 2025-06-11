@@ -1,0 +1,6 @@
+Type: Project
+Package: academic-website
+Title: Matthew J. Weldy Academic Website
+Version: 1.0.0
+Imports:
+    rmarkdown
