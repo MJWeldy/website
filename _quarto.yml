@@ -5,8 +5,8 @@ project:
 website:
   title: "Matthew J. Weldy"
   description: "Ecology | Analytics | Wildlife | Geospatial"
-  site-url: https://yourusername.github.io/website
-  repo-url: https://github.com/yourusername/website
+  site-url: https://mjweldy.github.io/website
+  repo-url: https://github.com/MJWeldy/website
   
   navbar:
     logo: /images/logo.png
@@ -23,7 +23,7 @@ website:
         href: cv.qmd
     right:
       - icon: github
-        href: https://github.com/yourusername
+        href: https://github.com/MJWeldy
       - icon: envelope
         href: mailto:MatthewJWeldy@gmail.com
 
