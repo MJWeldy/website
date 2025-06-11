@@ -3,7 +3,7 @@ title: "Matthew J. Weldy"
 subtitle: "Analytics | Bioacoustics | Ecology | Wildlife"
 image: images/profile.jpg
 about:
-  template: trestles
+  template: jolla
   image-width: 15em
   image-shape: round
   links:
