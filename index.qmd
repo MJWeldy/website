@@ -12,7 +12,7 @@ about:
       href: mailto:MatthewJWeldy@gmail.com
     - icon: github
       text: GitHub
-      href: https://github.com/yourusername
+      href: https://github.com/MJWeldy
     - icon: mortarboard
       text: ResearchGate
       href: https://www.researchgate.net/profile/Matthew-Weldy
@@ -24,33 +24,3 @@ about:
 ## Welcome
 
 I am a PhD Candidate in Forest Ecosystems and Society at Oregon State University, working with Dr. Matthew G. Betts and Dr. Damon B. Lesmeister. My research focuses on developing machine learning and probabilistic tools to process and analyze bioacoustics data for wildlife conservation and ecosystem monitoring.
-
-## Current Position
-
-**PhD Candidate** (2021–Present)  
-*Oregon State University, Department of Forest Ecosystems and Society*  
-Advisors: Dr. Matthew G. Betts, Dr. Damon B. Lesmeister  
-GPA: 3.86
-
-**Research Fellow** (2019–Present)  
-*Oak Ridge Institute for Science and Education*  
-*USDA Forest Service, Pacific Northwest Research Station*
-
-## Research Interests
-
-- **Bioacoustics & Machine Learning**: Developing AI approaches for wildlife sound analysis
-- **Wildlife Population Monitoring**: Passive acoustic monitoring of threatened species
-- **Bayesian Statistics**: Mark-recapture and occupancy modeling
-- **Conservation Biology**: Applied research for species protection and habitat management
-- **Geospatial Analysis**: Landscape-scale ecological modeling
-
-## Recent Highlights
-
-- **15+ peer-reviewed publications** in leading ecology journals
-- **Machine learning innovations** in bioacoustic species detection
-- **Conservation applications** for threatened species like Northern Spotted Owl and Marbled Murrelet
-- **International collaborations** in wildlife monitoring across multiple continents
-
----
-
-*Currently based in Port Townsend, WA*
