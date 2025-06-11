@@ -108,9 +108,21 @@ a {
   }
 }
 
-// Main content area
+// Main content area with proper centering
 .quarto-container {
   max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+// Override Quarto's column constraints
+.page-columns {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.content {
+  max-width: none;
 }
 
 // Minimal sections

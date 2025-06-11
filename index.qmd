@@ -1,6 +1,6 @@
 ---
 title: "Matthew J. Weldy"
-subtitle: "Ecology | Analytics | Wildlife | Geospatial"
+subtitle: "Analytics | Bioacoustics | Ecology | Wildlife"
 image: images/profile.jpg
 about:
   template: trestles
@@ -20,7 +20,5 @@ about:
       text: CV
       href: cv.qmd
 ---
-
-## Welcome
 
 I am a PhD Candidate in Forest Ecosystems and Society at Oregon State University, working with Dr. Matthew G. Betts and Dr. Damon B. Lesmeister. My research focuses on developing machine learning and probabilistic tools to process and analyze bioacoustics data for wildlife conservation and ecosystem monitoring.

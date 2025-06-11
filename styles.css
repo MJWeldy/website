@@ -353,18 +353,29 @@ a:hover {
   transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 }
 
-/* Center all content with consistent max-width */
+/* Center all content with wider max-width */
 .quarto-container {
-  max-width: 800px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 2rem 1rem;
+  padding: 2rem 2rem;
 }
 
 /* Ensure main content area is always centered */
 main {
-  max-width: 800px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0 2rem;
+}
+
+/* Override Quarto's default narrow width */
+.page-columns {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* Increase vertical spacing between sections */
