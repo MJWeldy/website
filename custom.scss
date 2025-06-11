@@ -1,16 +1,305 @@
 /*-- scss:defaults --*/
-$primary: #2c5aa0;
-$secondary: #8fbc8f;
-$success: #28a745;
-$info: #17a2b8;
+
+// Custom color palette
+$dark-charcoal: #2d2926;
+$slate-blue: #33454e;
+$teal-gray: #537380;
+$sage-green: #81a9ad;
+$light-gray: #f5f5f5;
+
+// Bootstrap variable overrides
+$primary: $slate-blue;
+$secondary: $teal-gray;
+$success: $sage-green;
+$info: $sage-green;
 $warning: #ffc107;
 $danger: #dc3545;
-$light: #f8f9fa;
-$dark: #343a40;
+$light: $light-gray;
+$dark: $dark-charcoal;
 
-// Fonts
-$font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-$headings-font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+// Typography
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-size-base: 1rem;
+$line-height-base: 1.6;
+
+// Layout
+$border-radius: 0.5rem;
+$border-radius-sm: 0.25rem;
+$border-radius-lg: 0.75rem;
 
 /*-- scss:rules --*/
-// Additional custom rules can go here
+
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+// Global styles
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: $font-family-sans-serif;
+  background-color: $light-gray;
+  color: $dark-charcoal;
+  line-height: $line-height-base;
+}
+
+// Clean, modern navigation
+.navbar {
+  background-color: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba($slate-blue, 0.1);
+  box-shadow: 0 2px 20px rgba($dark-charcoal, 0.05);
+  transition: all 0.3s ease;
+  
+  .navbar-brand {
+    font-weight: 600;
+    color: $dark-charcoal !important;
+    font-size: 1.25rem;
+  }
+  
+  .navbar-nav .nav-link {
+    color: $slate-blue !important;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: $border-radius-sm;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      background-color: rgba($sage-green, 0.1);
+      color: $dark-charcoal !important;
+    }
+  }
+}
+
+// Modern typography
+h1, h2, h3, h4, h5, h6 {
+  color: $dark-charcoal;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: $slate-blue;
+}
+
+// Clean links
+a {
+  color: $teal-gray;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  
+  &:hover {
+    color: $sage-green;
+    text-decoration: underline;
+  }
+}
+
+// Main content area
+.quarto-container {
+  max-width: 1200px;
+}
+
+// Card-like sections
+.card, .callout {
+  background: white;
+  border: none;
+  border-radius: $border-radius;
+  box-shadow: 0 4px 20px rgba($dark-charcoal, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba($dark-charcoal, 0.12);
+  }
+}
+
+// About section styling
+.quarto-about-trestles {
+  .about-entity {
+    background: white;
+    border-radius: $border-radius-lg;
+    padding: 2rem;
+    box-shadow: 0 8px 40px rgba($dark-charcoal, 0.08);
+    border: 1px solid rgba($sage-green, 0.1);
+  }
+  
+  .about-image img {
+    border-radius: 50%;
+    border: 4px solid $sage-green;
+    box-shadow: 0 8px 30px rgba($teal-gray, 0.2);
+    transition: transform 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+}
+
+// Clean buttons
+.btn {
+  border-radius: $border-radius;
+  font-weight: 500;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  transition: all 0.2s ease;
+  
+  &.btn-primary {
+    background: linear-gradient(135deg, $slate-blue, $teal-gray);
+    color: white;
+    
+    &:hover {
+      background: linear-gradient(135deg, $teal-gray, $sage-green);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 15px rgba($slate-blue, 0.3);
+    }
+  }
+  
+  &.btn-outline-primary {
+    border: 2px solid $teal-gray;
+    color: $teal-gray;
+    
+    &:hover {
+      background: $teal-gray;
+      color: white;
+    }
+  }
+}
+
+// Code blocks
+.sourceCode {
+  background: $light-gray;
+  border: 1px solid rgba($sage-green, 0.2);
+  border-radius: $border-radius;
+  
+  code {
+    background: transparent;
+  }
+}
+
+// Forms styling
+.form-control {
+  border: 2px solid rgba($sage-green, 0.2);
+  border-radius: $border-radius;
+  padding: 0.75rem 1rem;
+  transition: all 0.2s ease;
+  
+  &:focus {
+    border-color: $sage-green;
+    box-shadow: 0 0 0 0.2rem rgba($sage-green, 0.15);
+  }
+}
+
+.form-label {
+  font-weight: 500;
+  color: $slate-blue;
+  margin-bottom: 0.5rem;
+}
+
+// Table styling
+.table {
+  background: white;
+  border-radius: $border-radius;
+  overflow: hidden;
+  box-shadow: 0 2px 15px rgba($dark-charcoal, 0.05);
+  
+  th {
+    background: $light-gray;
+    color: $dark-charcoal;
+    font-weight: 600;
+    border: none;
+  }
+  
+  td {
+    border-color: rgba($sage-green, 0.1);
+  }
+}
+
+// Footer
+.nav-footer {
+  background: $dark-charcoal;
+  color: $light-gray;
+  border-top: none;
+  margin-top: 3rem;
+  
+  a {
+    color: $sage-green;
+    
+    &:hover {
+      color: white;
+    }
+  }
+}
+
+// Sidebar
+.sidebar {
+  background: rgba(white, 0.9);
+  backdrop-filter: blur(10px);
+  border-right: 1px solid rgba($sage-green, 0.1);
+  
+  .sidebar-item {
+    border-radius: $border-radius-sm;
+    transition: background-color 0.2s ease;
+    
+    &:hover {
+      background: rgba($sage-green, 0.05);
+    }
+  }
+}
+
+// Responsive design improvements
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  .quarto-about-trestles .about-entity {
+    padding: 1.5rem;
+  }
+  
+  .navbar-brand {
+    font-size: 1.1rem;
+  }
+}
+
+// Smooth animations
+* {
+  transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+// Focus states for accessibility
+*:focus {
+  outline: 2px solid $sage-green;
+  outline-offset: 2px;
+}
+
+// Publication list
+.publications {
+  .publication-item {
+    background: white;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    border-radius: $border-radius;
+    box-shadow: 0 2px 10px rgba($dark-charcoal, 0.05);
+    border-left: 4px solid $sage-green;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      transform: translateX(5px);
+      box-shadow: 0 4px 20px rgba($dark-charcoal, 0.1);
+    }
+  }
+}
