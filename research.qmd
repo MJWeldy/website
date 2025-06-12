@@ -1,5 +1,9 @@
 ---
 title: "Research"
+
+format: 
+  html: 
+    page-layout: full
 ---
 
 ## Research Focus
