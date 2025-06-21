@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research integrates cutting-edge technology with conservation biology to address critical challenges in wildlife monitoring and ecosystem management. I specialize in developing machine learning and probabilistic tools for analyzing bioacoustic data, with applications to threatened species conservation and landscape-scale ecological monitoring."
+  },
+  {
+    "objectID": "research.html#research-focus",
+    "href": "research.html#research-focus",
+    "title": "Research",
+    "section": "",
+    "text": "My research integrates cutting-edge technology with conservation biology to address critical challenges in wildlife monitoring and ecosystem management. I specialize in developing machine learning and probabilistic tools for analyzing bioacoustic data, with applications to threatened species conservation and landscape-scale ecological monitoring."
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nBioacoustic Monitoring of Threatened Species\nNorthern Spotted Owl Population Dynamics\nDeveloping integrated approaches combining historical territory data with passive acoustic monitoring to assess population trends and occupancy patterns of this federally threatened species.\nMarbled Murrelet Forest Habitat Use\nUsing convolutional neural networks and passive acoustic recorders to facilitate near real-time monitoring of marbled murrelets across forested landscapes, enabling better understanding of terrestrial habitat requirements.\n\n\nMachine Learning for Bioacoustics\nAudio Classification Under Data Scarcity\nDeveloping simulated soundscape approaches to improve acoustic classifier performance when training data is limited, with applications to rare species detection.\nIndividual Identification in Acoustic Recordings\nContributing to advancing methods for individual animal identification using acoustic signatures, with implications for demographic studies and population monitoring.\n\n\nBayesian Statistical Methods\nMulti-state Occupancy Modeling\nDeveloping methods to integrate long-term monitoring data across different survey methodologies, addressing spatial mismatch and methodological transitions in wildlife monitoring programs.\nMark-Recapture Analysis\nInvestigating emigration effects on survival estimates and developing improved analytical approaches for small mammal demographic studies."
+  },
+  {
+    "objectID": "research.html#research-themes",
+    "href": "research.html#research-themes",
+    "title": "Research",
+    "section": "Research Themes",
+    "text": "Research Themes\n\n1. Conservation Technology\n\nPassive Acoustic Monitoring: Deploying automated recording systems for continuous wildlife monitoring\nMachine Learning Applications: Developing AI tools for species detection and behavior classification\nRemote Sensing Integration: Combining acoustic data with satellite and LiDAR data for landscape-scale analysis\n\n\n\n2. Population Ecology\n\nDemographic Modeling: Understanding vital rates and population dynamics of threatened species\nOccupancy Analysis: Assessing species distribution patterns and habitat relationships\nSurvival Analysis: Investigating factors affecting wildlife survival and reproduction\n\n\n\n3. Landscape Ecology\n\nHabitat Fragmentation: Examining effects of forest management on wildlife populations\nMulti-scale Analysis: Connecting local habitat features to landscape-scale patterns\nClimate Change Impacts: Assessing species responses to environmental change"
+  },
+  {
+    "objectID": "research.html#international-collaborations",
+    "href": "research.html#international-collaborations",
+    "title": "Research",
+    "section": "International Collaborations",
+    "text": "International Collaborations\n\nAfrican Wildlife Conservation\nCollaborating on wildlife monitoring projects in Malawi’s Nkhotakota Wildlife Reserve, including: - African elephant abundance estimation - Large mammal population assessments - Passive acoustic monitoring pilot studies\n\n\nGlobal Soundscape Analysis\nContributing to worldwide syntheses of passive acoustic monitoring across terrestrial and aquatic realms, advancing our understanding of global biodiversity patterns."
+  },
+  {
+    "objectID": "research.html#methodological-innovations",
+    "href": "research.html#methodological-innovations",
+    "title": "Research",
+    "section": "Methodological Innovations",
+    "text": "Methodological Innovations\n\nStatistical Methods\n\nBayesian Hierarchical Models: Advanced modeling frameworks for complex ecological data\nMulti-species Analysis: Developing methods to analyze community-level responses\nUncertainty Quantification: Incorporating multiple sources of uncertainty in ecological predictions\n\n\n\nTechnology Development\n\nAutomated Detection Algorithms: Creating species-specific detection systems\nData Processing Pipelines: Developing efficient workflows for large-scale acoustic data analysis\nQuality Control Methods: Establishing protocols for acoustic data validation and error assessment"
+  },
+  {
+    "objectID": "research.html#future-directions",
+    "href": "research.html#future-directions",
+    "title": "Research",
+    "section": "Future Directions",
+    "text": "Future Directions\nMy research continues to evolve at the intersection of ecology, technology, and conservation, with ongoing work focusing on:\n\nReal-time Monitoring Systems: Developing near real-time species detection capabilities\nMulti-sensor Integration: Combining acoustic, visual, and environmental sensors\nPredictive Modeling: Using machine learning for forecasting species responses to environmental change\nOpen Science Tools: Contributing to open-source software for bioacoustic analysis\n\n\nFor detailed methodology and results, see my Publications page."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matthew J. Weldy, PhD Candidate",
+    "section": "",
+    "text": "Matthew J. Weldy, PhD Candidate\nForest Ecosystems and Society at Oregon State University\nI am a wildlife ecologist and data scientist specializing in bioacoustics, machine learning, and conservation biology. Currently pursuing my PhD at Oregon State University, I work at the intersection of technology and wildlife conservation to develop innovative solutions for monitoring and protecting threatened species.\nMy research leverages machine learning and probabilistic tools to process and analyze bioacoustics data for wildlife conservation and ecosystem monitoring. My technical expertise spans Bayesian modeling, spatial analysis, and field ecology, with a focus on developing practical tools for conservation practitioners.\nLearn more about me →\n\nCurrently based in Port Townsend, Washington, conducting field research throughout the Pacific Northwest and collaborating with research teams across North America and internationally."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a wildlife ecologist and data scientist specializing in bioacoustics, machine learning, and conservation biology. Currently pursuing my PhD in Forest Ecosystems and Society at Oregon State University, I work at the intersection of technology and wildlife conservation to develop innovative solutions for monitoring and protecting threatened species.\nMy research leverages machine learning and probabilistic tools to process and analyze bioacoustics data for wildlife conservation and ecosystem monitoring. I work with Dr. Matthew G. Betts and Dr. Damon B. Lesmeister to develop practical tools that help conservation practitioners make data-driven decisions."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "Background",
+    "text": "Background\nI received my Master of Science in Wildlife Science from Oregon State University in 2018, where I studied spatiotemporal associations of abundance and vital rates of co-occurring small mammals in late successional forests. Prior to that, I earned a Bachelor of Science in Plant Biology from the University of Minnesota and a Geographic Information Systems Certificate from California State University, Fresno."
+  },
+  {
+    "objectID": "about.html#technical-expertise",
+    "href": "about.html#technical-expertise",
+    "title": "About",
+    "section": "Technical Expertise",
+    "text": "Technical Expertise\nMy technical skills span programming languages (R, Python, Julia), machine learning frameworks (PyTorch, Keras, TensorFlow, Jax), and statistical modeling (Bayesian modeling, mark-recapture analysis, occupancy modeling). I also have extensive experience in spatial analysis using ArcGIS and QGIS, as well as field techniques including bioacoustics monitoring, wildlife trapping, and habitat assessment."
+  },
+  {
+    "objectID": "about.html#current-work",
+    "href": "about.html#current-work",
+    "title": "About",
+    "section": "Current Work",
+    "text": "Current Work\nI currently work as a Research Fellow with the Oak Ridge Institute for Science and Education at the USDA Forest Service, Pacific Northwest Research Station. My work focuses on developing machine learning approaches for bioacoustics analysis and conducting Bayesian analysis of mark-recapture and occupancy data to support research collaborations."
+  },
+  {
+    "objectID": "about.html#location",
+    "href": "about.html#location",
+    "title": "About",
+    "section": "Location",
+    "text": "Location\nI am currently based in Port Townsend, Washington, conducting field research throughout the Pacific Northwest and collaborating with research teams across North America and internationally."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "ECOLOGY | ANALYTICS | WILDLIFE | GEOSPATIAL\nPort Townsend, WA | +1 (651) 210-8959 | MatthewJWeldy@gmail.com | ResearchGate\n\n\n\nDoctor of Philosophy in Forest Ecosystems and Society (2021–Present)\nOregon State University, Department of Forest Ecosystems and Society\nAdvisors: Dr. Matthew G. Betts, Dr. Damon B. Lesmeister\nGPA: 3.86\nPhD Candidate (2021–Present)\nOregon State University\nDeveloping machine learning and probabilistic tools to process and analyze bioacoustics data.\nResearch Fellow (2019–Present)\nOak Ridge Institute for Science and Education\nUSDA Forest Service, Pacific Northwest Research Station\nDeveloped machine learning approaches to analyze avian bioacoustics data and conducted Bayesian analysis of mark-recapture and occupancy data. Prepared analyses for peer-reviewed publication. Provided regular statistical support for lab members and external collaborators.\n\n\n\n\n\n\n\nBalvanera, S. M., O. M. Aodha, M. J. Weldy, H. Pringle, E. Browning, and K. E. Jones. 2025. Whombat: An open‐source audio annotation tool for machine learning assisted bioacoustics. Methods in Ecology and Evolution 16:19-28.\nNavine, A. K., R. J. Camp, M. J. Weldy, T. Denton, and P. J. Hart. 2024. Counting the chorus: A bioacoustic indicator of population density. Ecological Indicators 169: 112930.\nKnight, E. C., T. Rhinehart, D. R. de Zwaan, M. J. Weldy, M. Cartwright, S. H. Hawley, J. L. Larkin, D. B. Lesmeister, E. M. Bayne, and J. Kitzes. 2024. Individual identification in acoustic recordings. Trends in Ecology and Evolution.\nWeldy M. J., T. Denton, A. B. Fleishman, J. Tolchin, M. McKown, R. S. Spaan, Z. J. Ruff, J. M. A. Jenkins, M. G. Betts, and D. B. Lesmeister. 2024. Audio tagging of avian dawn chorus recordings in California, Oregon, and Washington. Biodiversity Data Journal 12: e118315.\nDuarte, A., M. J. Weldy, D. B. Lesmeister, Z. J. Ruff, J. J. Jenkins, J. J. Valente, and M. G. Betts. 2024. Passive acoustic recorders and convolutional neural networks facilitate near real-time monitoring of marbled murrelets across forested landscapes. Ecological Indicators 162: 112016.\n\nTotal: 15+ peer-reviewed publications\n\n\n\n\n\n\nWeldy, M. J., M. G. Betts, D. B. Lesmeister, A. Duarte, and T. Denton. Using passive acoustic monitoring to estimate behavioral states and link them to conservation indicators. Invited talk. The Ecological Society of America Annual Meeting, Inspire Session, 2024.\nWeldy, M. J. 2024. Integrating historic northern spotted owl territory and bioacoustic data in multi-state occupancy. Invited talk. 2024 Annual Meeting of the Interagency Northern Spotted Owl Monitoring Program.\nWeldy, M. J., A. Duarte, D. B. Lesmeister, and M. G. Betts. Discerning use and site occupancy for marbled murrelets using passive acoustic monitoring. Poster. Oregon Chapter of The Wildlife Society Annual Meeting, 2024.\n\n\n\n\n\n\nPh.D. Student Achievement Award, College of Forestry, Oregon State University (2023)\nJack & Lila Saubert Scholarship, Oregon State University (2023) - $2,000\nArnold and Vera Meier Forestry Education Scholarship, Oregon State University (2023) - $2,000\n\n\n\n\n\nProgramming Languages: R, Python, Julia, BUGS (JAGS, MultiBUGS), Stan, PyTorch, Keras, TensorFlow, Jax\nSoftware: Microsoft Office, ArcGIS, QGIS, MicroStation\nStatistical Methods: Bayesian modeling, machine learning, mark-recapture analysis, occupancy modeling, species distribution modeling\nField Techniques: Passive acoustic monitoring, wildlife telemetry, live-trapping, camera trapping, vegetation sampling\n\n\n\n\nMaster of Science in Wildlife Science (2015–2018)\nOregon State University, Department of Fisheries and Wildlife\nAdvisor: Dr. Clinton W. Epps, GPA: 3.86\nThesis: “Spatiotemporal associations of abundance and vital rates of co-occurring small mammals in a late successional forest”\nGeographic Information Systems Certificate (2012–2013)\nCalifornia State University, Fresno, GPA: 3.75\nBachelor of Science in Plant Biology (2004–2009)\nUniversity of Minnesota, College of Biological Sciences, GPA: 3.47\n\n\n\n\nPeer Reviewer: Diversity and Distributions, Ecology and Evolution, Ecological Indicators, Journal of Mammalogy, Journal of Wildlife Management, Landscape Ecology, Northwest Science, PLOS ONE, Wildlife Society Bulletin\nAcademic Service: Letters of support for promotion and tenure committees, graduate student mentorship program\n\n\n\n\nInvited Tutorial (2021)\nAdams Lab - “Amphibian audio classification”\nInstructor (2015–2018)\nMammalogy, Oregon State University FW 317 - Online Mammalogy instructor\nTeaching Assistant (2018–2019)\nMammalogy, Oregon State University FW 317\n\nFor complete publication list and detailed experience, please contact me directly.\n\nDownload PDF Version: CV.pdf"
+  },
+  {
+    "objectID": "cv.html#current-education-position",
+    "href": "cv.html#current-education-position",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Doctor of Philosophy in Forest Ecosystems and Society (2021–Present)\nOregon State University, Department of Forest Ecosystems and Society\nAdvisors: Dr. Matthew G. Betts, Dr. Damon B. Lesmeister\nGPA: 3.86\nPhD Candidate (2021–Present)\nOregon State University\nDeveloping machine learning and probabilistic tools to process and analyze bioacoustics data.\nResearch Fellow (2019–Present)\nOak Ridge Institute for Science and Education\nUSDA Forest Service, Pacific Northwest Research Station\nDeveloped machine learning approaches to analyze avian bioacoustics data and conducted Bayesian analysis of mark-recapture and occupancy data. Prepared analyses for peer-reviewed publication. Provided regular statistical support for lab members and external collaborators."
+  },
+  {
+    "objectID": "cv.html#selected-publications",
+    "href": "cv.html#selected-publications",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Balvanera, S. M., O. M. Aodha, M. J. Weldy, H. Pringle, E. Browning, and K. E. Jones. 2025. Whombat: An open‐source audio annotation tool for machine learning assisted bioacoustics. Methods in Ecology and Evolution 16:19-28.\nNavine, A. K., R. J. Camp, M. J. Weldy, T. Denton, and P. J. Hart. 2024. Counting the chorus: A bioacoustic indicator of population density. Ecological Indicators 169: 112930.\nKnight, E. C., T. Rhinehart, D. R. de Zwaan, M. J. Weldy, M. Cartwright, S. H. Hawley, J. L. Larkin, D. B. Lesmeister, E. M. Bayne, and J. Kitzes. 2024. Individual identification in acoustic recordings. Trends in Ecology and Evolution.\nWeldy M. J., T. Denton, A. B. Fleishman, J. Tolchin, M. McKown, R. S. Spaan, Z. J. Ruff, J. M. A. Jenkins, M. G. Betts, and D. B. Lesmeister. 2024. Audio tagging of avian dawn chorus recordings in California, Oregon, and Washington. Biodiversity Data Journal 12: e118315.\nDuarte, A., M. J. Weldy, D. B. Lesmeister, Z. J. Ruff, J. J. Jenkins, J. J. Valente, and M. G. Betts. 2024. Passive acoustic recorders and convolutional neural networks facilitate near real-time monitoring of marbled murrelets across forested landscapes. Ecological Indicators 162: 112016.\n\nTotal: 15+ peer-reviewed publications"
+  },
+  {
+    "objectID": "cv.html#recent-presentations",
+    "href": "cv.html#recent-presentations",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Weldy, M. J., M. G. Betts, D. B. Lesmeister, A. Duarte, and T. Denton. Using passive acoustic monitoring to estimate behavioral states and link them to conservation indicators. Invited talk. The Ecological Society of America Annual Meeting, Inspire Session, 2024.\nWeldy, M. J. 2024. Integrating historic northern spotted owl territory and bioacoustic data in multi-state occupancy. Invited talk. 2024 Annual Meeting of the Interagency Northern Spotted Owl Monitoring Program.\nWeldy, M. J., A. Duarte, D. B. Lesmeister, and M. G. Betts. Discerning use and site occupancy for marbled murrelets using passive acoustic monitoring. Poster. Oregon Chapter of The Wildlife Society Annual Meeting, 2024."
+  },
+  {
+    "objectID": "cv.html#awards-scholarships",
+    "href": "cv.html#awards-scholarships",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Ph.D. Student Achievement Award, College of Forestry, Oregon State University (2023)\nJack & Lila Saubert Scholarship, Oregon State University (2023) - $2,000\nArnold and Vera Meier Forestry Education Scholarship, Oregon State University (2023) - $2,000"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Programming Languages: R, Python, Julia, BUGS (JAGS, MultiBUGS), Stan, PyTorch, Keras, TensorFlow, Jax\nSoftware: Microsoft Office, ArcGIS, QGIS, MicroStation\nStatistical Methods: Bayesian modeling, machine learning, mark-recapture analysis, occupancy modeling, species distribution modeling\nField Techniques: Passive acoustic monitoring, wildlife telemetry, live-trapping, camera trapping, vegetation sampling"
+  },
+  {
+    "objectID": "cv.html#previous-education",
+    "href": "cv.html#previous-education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Master of Science in Wildlife Science (2015–2018)\nOregon State University, Department of Fisheries and Wildlife\nAdvisor: Dr. Clinton W. Epps, GPA: 3.86\nThesis: “Spatiotemporal associations of abundance and vital rates of co-occurring small mammals in a late successional forest”\nGeographic Information Systems Certificate (2012–2013)\nCalifornia State University, Fresno, GPA: 3.75\nBachelor of Science in Plant Biology (2004–2009)\nUniversity of Minnesota, College of Biological Sciences, GPA: 3.47"
+  },
+  {
+    "objectID": "cv.html#professional-service",
+    "href": "cv.html#professional-service",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Peer Reviewer: Diversity and Distributions, Ecology and Evolution, Ecological Indicators, Journal of Mammalogy, Journal of Wildlife Management, Landscape Ecology, Northwest Science, PLOS ONE, Wildlife Society Bulletin\nAcademic Service: Letters of support for promotion and tenure committees, graduate student mentorship program"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Invited Tutorial (2021)\nAdams Lab - “Amphibian audio classification”\nInstructor (2015–2018)\nMammalogy, Oregon State University FW 317 - Online Mammalogy instructor\nTeaching Assistant (2018–2019)\nMammalogy, Oregon State University FW 317\n\nFor complete publication list and detailed experience, please contact me directly.\n\nDownload PDF Version: CV.pdf"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Balvanera, S. M., O. M. Aodha, M. J. Weldy, H. Pringle, E. Browning, and K. E. Jones. 2025. Whombat: An open‐source audio annotation tool for machine learning assisted bioacoustics. Methods in Ecology and Evolution 16:19-28. DOI: 10.1111/2041-210X.14468\n\n\n\nNavine, A. K., R. J. Camp, M. J. Weldy, T. Denton, and P. J. Hart. 2024. Counting the chorus: A bioacoustic indicator of population density. Ecological Indicators 169: 112930. DOI: 10.1016/j.ecolind.2024.112930\nBarry, B., J. Holbrook, J. Vogeler, L. Elliott, M. J. Weldy, D. B. Lesmeister, C. W. Epps, T. W. Wilson, and K. Vierling. 2024. Using spaceborne LiDAR to reveal drivers of animal demography. Ecological Applications 34: e3048. DOI: 10.1002/eap.3048\nKnight, E. C., T. Rhinehart, D. R. de Zwaan, M. J. Weldy, M. Cartwright, S. H. Hawley, J. L. Larkin, D. B. Lesmeister, E. M. Bayne, and J. Kitzes. 2024. Individual identification in acoustic recordings. Trends in Ecology and Evolution. DOI: 10.1016/j.tree.2024.05.007\nWeldy M. J., T. Denton, A. B. Fleishman, J. Tolchin, M. McKown, R. S. Spaan, Z. J. Ruff, J. M. A. Jenkins, M. G. Betts, and D. B. Lesmeister. 2024. Audio tagging of avian dawn chorus recordings in California, Oregon, and Washington. Biodiversity Data Journal 12: e118315. DOI: 10.3897/BDJ.12.e118315\nDuarte, A., M. J. Weldy, D. B. Lesmeister, Z. J. Ruff, J. J. Jenkins, J. J. Valente, and M. G. Betts. 2024. Passive acoustic recorders and convolutional neural networks facilitate near real-time monitoring of marbled murrelets across forested landscapes. Ecological Indicators 162: 112016. DOI: 10.1016/j.ecolind.2024.112016\nNavine, A. K., T. Denton, M. J. Weldy, and P. J. Hart. 2024. All thresholds Barred: Direct estimation of call density in bioacoustic data. Frontiers in Bird Science 3. DOI: 10.3389/fbirs.2024.1380636\n\n\n\nEpps, C. W., R. S. Crowhurst, R. S. Spaan, M. J. Weldy, H. F. Tavalire. 2023. Influence on climate and landscape on genetic differentiation of aardvarks (Orycteropus afer). Diversity and Distributions 00:1-16. DOI: 10.1111/ddi.13792\nValente J. J., D. G. Gannon, J. Hightower, H. Kim, K. G. Leimberger, R. Macedo, J. Rousseau, M. J. Weldy, R. Zitomer, L. Fahrig, R. J. Fletcher Jr., J. Wu, M. G. Betts. 2023. Toward conciliation in the habitat fragmentation and biodiversity debate. Landscape Ecology 38: 2717-2730. DOI: 10.1007/s10980-023-01708-9\nWeldy, M. J., D. B. Lesmeister, C. B. Yackulic, C. L. Appel, C. McCafferty, and J. D. Wiens. 2023. Long-term monitoring in transition: Resolving spatial mismatch and integrating multistate occupancy data. Ecological Indicators 146: 109815. DOI: 10.1016/j.ecolind.2022.109815\nAppel, C. L., D. B. Lesmeister, A. Duarte, R. J. Davis, M. J. Weldy, and T. Levi. 2023. Using passive acoustic monitoring to estimate northern spotted owl landscape use and pair occupancy. Ecosphere 14(2): e4421. DOI: 10.1002/ecs2.4421\n\n\n\nPainter, L. E., M. J. Weldy, R. S. Crowhurst, L. N. Carraway, and C. W. Epps. 2022. Landscape genetics of the camas pocket gopher (Thomomys bulbivorus), an endemic mammal of Oregon’s Willamette Valley. Western North American Naturalist 82(3): 479–493. DOI: 10.3398/064.082.0305\nWeldy, M. J., C. W. Epps, D. B. Lesmeister. 2022. Emigration effects on estimates of age- and sex-specific survival of two sciurids. Ecology and Evolution 12: e883. DOI: 10.1002/ece3.8833\nMilward L. S., T. M. Wilson, M. J. Weldy, M. M. Rowland, A. Duarte, D. B. Lesmeister, and W. J. Ripple. 2022. Small mammal relative abundance within riparian ecosystems of the Blue Mountains. Forest Ecology and Management 505: 119899. DOI: 10.1016/j.foreco.2021.119899\n\n\n\nEpps, C. W., V. M. Petro, T. G. Creech, R. S. Crowhurst, M. J. Weldy, and J. D. Taylor. 2021. Landscape genetics of American beaver in Coastal Oregon. Journal of Wildlife Management 85: 1462–1475. DOI: 10.1002/jwmg.22102\nEpps, C. W., M. J. Weldy, R. S. Crowhurst, and R. S. Spaan. 2021. Estimating the distribution and habitat suitability of aardvarks (Orycteropus afer) in Kruger National Park, South Africa. African Journal of Ecology 59: 854–865. DOI: 10.1111/aje.12916\n\n\n\nWeldy, M. J., C. W. Epps, D. B. Lesmeister, T. Manning, and E. D. Forsman. 2020. Spatiotemporal dynamics in vital rates of Humboldt’s Flying Squirrels and Townsend’s Chipmunks in late successional forests. Journal of Mammalogy 101: 187–198. DOI: 10.1093/jmammal/gyz204\n\n\n\nWeldy, M. J., T. M. Wilson, D. B. Lesmeister, and C. W. Epps. 2019. Effects of trapping effort and trap placement on estimating abundance of Humboldt’s Flying Squirrels. PeerJ 7: e7783. DOI: 10.7717/peerj.7783\nWeldy, M. J., C. W. Epps, D. B. Lesmeister, T. Manning, M. A. Linnell, and E. D. Forsman. 2019. Abundance and ecological associations of small mammals. Journal of Wildlife Management 83: 902–915. DOI: 10.1002/jwmg.21641"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Balvanera, S. M., O. M. Aodha, M. J. Weldy, H. Pringle, E. Browning, and K. E. Jones. 2025. Whombat: An open‐source audio annotation tool for machine learning assisted bioacoustics. Methods in Ecology and Evolution 16:19-28. DOI: 10.1111/2041-210X.14468\n\n\n\nNavine, A. K., R. J. Camp, M. J. Weldy, T. Denton, and P. J. Hart. 2024. Counting the chorus: A bioacoustic indicator of population density. Ecological Indicators 169: 112930. DOI: 10.1016/j.ecolind.2024.112930\nBarry, B., J. Holbrook, J. Vogeler, L. Elliott, M. J. Weldy, D. B. Lesmeister, C. W. Epps, T. W. Wilson, and K. Vierling. 2024. Using spaceborne LiDAR to reveal drivers of animal demography. Ecological Applications 34: e3048. DOI: 10.1002/eap.3048\nKnight, E. C., T. Rhinehart, D. R. de Zwaan, M. J. Weldy, M. Cartwright, S. H. Hawley, J. L. Larkin, D. B. Lesmeister, E. M. Bayne, and J. Kitzes. 2024. Individual identification in acoustic recordings. Trends in Ecology and Evolution. DOI: 10.1016/j.tree.2024.05.007\nWeldy M. J., T. Denton, A. B. Fleishman, J. Tolchin, M. McKown, R. S. Spaan, Z. J. Ruff, J. M. A. Jenkins, M. G. Betts, and D. B. Lesmeister. 2024. Audio tagging of avian dawn chorus recordings in California, Oregon, and Washington. Biodiversity Data Journal 12: e118315. DOI: 10.3897/BDJ.12.e118315\nDuarte, A., M. J. Weldy, D. B. Lesmeister, Z. J. Ruff, J. J. Jenkins, J. J. Valente, and M. G. Betts. 2024. Passive acoustic recorders and convolutional neural networks facilitate near real-time monitoring of marbled murrelets across forested landscapes. Ecological Indicators 162: 112016. DOI: 10.1016/j.ecolind.2024.112016\nNavine, A. K., T. Denton, M. J. Weldy, and P. J. Hart. 2024. All thresholds Barred: Direct estimation of call density in bioacoustic data. Frontiers in Bird Science 3. DOI: 10.3389/fbirs.2024.1380636\n\n\n\nEpps, C. W., R. S. Crowhurst, R. S. Spaan, M. J. Weldy, H. F. Tavalire. 2023. Influence on climate and landscape on genetic differentiation of aardvarks (Orycteropus afer). Diversity and Distributions 00:1-16. DOI: 10.1111/ddi.13792\nValente J. J., D. G. Gannon, J. Hightower, H. Kim, K. G. Leimberger, R. Macedo, J. Rousseau, M. J. Weldy, R. Zitomer, L. Fahrig, R. J. Fletcher Jr., J. Wu, M. G. Betts. 2023. Toward conciliation in the habitat fragmentation and biodiversity debate. Landscape Ecology 38: 2717-2730. DOI: 10.1007/s10980-023-01708-9\nWeldy, M. J., D. B. Lesmeister, C. B. Yackulic, C. L. Appel, C. McCafferty, and J. D. Wiens. 2023. Long-term monitoring in transition: Resolving spatial mismatch and integrating multistate occupancy data. Ecological Indicators 146: 109815. DOI: 10.1016/j.ecolind.2022.109815\nAppel, C. L., D. B. Lesmeister, A. Duarte, R. J. Davis, M. J. Weldy, and T. Levi. 2023. Using passive acoustic monitoring to estimate northern spotted owl landscape use and pair occupancy. Ecosphere 14(2): e4421. DOI: 10.1002/ecs2.4421\n\n\n\nPainter, L. E., M. J. Weldy, R. S. Crowhurst, L. N. Carraway, and C. W. Epps. 2022. Landscape genetics of the camas pocket gopher (Thomomys bulbivorus), an endemic mammal of Oregon’s Willamette Valley. Western North American Naturalist 82(3): 479–493. DOI: 10.3398/064.082.0305\nWeldy, M. J., C. W. Epps, D. B. Lesmeister. 2022. Emigration effects on estimates of age- and sex-specific survival of two sciurids. Ecology and Evolution 12: e883. DOI: 10.1002/ece3.8833\nMilward L. S., T. M. Wilson, M. J. Weldy, M. M. Rowland, A. Duarte, D. B. Lesmeister, and W. J. Ripple. 2022. Small mammal relative abundance within riparian ecosystems of the Blue Mountains. Forest Ecology and Management 505: 119899. DOI: 10.1016/j.foreco.2021.119899\n\n\n\nEpps, C. W., V. M. Petro, T. G. Creech, R. S. Crowhurst, M. J. Weldy, and J. D. Taylor. 2021. Landscape genetics of American beaver in Coastal Oregon. Journal of Wildlife Management 85: 1462–1475. DOI: 10.1002/jwmg.22102\nEpps, C. W., M. J. Weldy, R. S. Crowhurst, and R. S. Spaan. 2021. Estimating the distribution and habitat suitability of aardvarks (Orycteropus afer) in Kruger National Park, South Africa. African Journal of Ecology 59: 854–865. DOI: 10.1111/aje.12916\n\n\n\nWeldy, M. J., C. W. Epps, D. B. Lesmeister, T. Manning, and E. D. Forsman. 2020. Spatiotemporal dynamics in vital rates of Humboldt’s Flying Squirrels and Townsend’s Chipmunks in late successional forests. Journal of Mammalogy 101: 187–198. DOI: 10.1093/jmammal/gyz204\n\n\n\nWeldy, M. J., T. M. Wilson, D. B. Lesmeister, and C. W. Epps. 2019. Effects of trapping effort and trap placement on estimating abundance of Humboldt’s Flying Squirrels. PeerJ 7: e7783. DOI: 10.7717/peerj.7783\nWeldy, M. J., C. W. Epps, D. B. Lesmeister, T. Manning, M. A. Linnell, and E. D. Forsman. 2019. Abundance and ecological associations of small mammals. Journal of Wildlife Management 83: 902–915. DOI: 10.1002/jwmg.21641"
+  },
+  {
+    "objectID": "publications.html#in-press",
+    "href": "publications.html#in-press",
+    "title": "Publications",
+    "section": "In Press",
+    "text": "In Press\nDarras, K. F. A., R. A. Rountree, S. L. V. Wilgenburg, … M. J. Weldy, …, C. W. Martin. In Press. Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. Global Ecology and Biogeography."
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-review",
+    "href": "publications.html#manuscripts-in-review",
+    "title": "Publications",
+    "section": "Manuscripts in Review",
+    "text": "Manuscripts in Review\n\nWeldy, M. J., et al. In Review. Simulated soundscapes boost the performance of acoustic classifiers under data scarcity.\nAnselmetto, N., M. J. Weldy, et al. In Review. An evaluation of microclimate-based distribution modelling in a multi-taxa system.\nTosa, M. I., M. J. Weldy, D. B. Lesmeister, C. W. Epps, D. J. Morin, and T. R. Levi. In Review. Assessing unmarked models for estimating density of small mammals using camera traps."
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications",
+    "section": "Manuscripts in Preparation",
+    "text": "Manuscripts in Preparation\n\nLesmeister, D. B., C. B. Yackulic, Weldy, M. J., and others. In Prep. Northern spotted owl occupancy dynamics across a methodological transition.\nWeldy, M. J., N. Ferrari, S. Lapp, T. Rhinehart, A. Juncosa, E. K. Knight, S. M. Balvanera, K. Kelly, T. Denton, M. G. Betts, D. B. Lesmeister, and others. Developmental guidelines for terrestrial bioacoustic programs.\nBetts, M. G., M. J. Weldy, and others. In Prep. Post-fire recovery in the H. J. Andrews Experimental Forest."
+  },
+  {
+    "objectID": "publications.html#technical-reports",
+    "href": "publications.html#technical-reports",
+    "title": "Publications",
+    "section": "Technical Reports",
+    "text": "Technical Reports\nRecent technical reports focusing on wildlife monitoring and conservation applications:\n\nLesmeister, D. B., C. L. Appel, M. J. Weldy, and M. Ngosi. 2024. African Elephant (Loxodonta africana) Abundance Estimates at Nkhotakota Wildlife Reserve, 2019–2023. USDA Forest Service, Pacific Northwest Research Station.\nDuarte, A., B. Vernasco, M. J. Weldy, R. S. Spaan, and J. Ratliff. 2024. Northern Blue Mountains Wildlife Monitoring, 2022-2023. USDA Forest Service, Pacific Northwest Research Station.\nLesmeister, D. B., Z. J. Ruff, M. J. Weldy, A. Habib, C. Gates, N. Rugg, H. Hester, and A. Chibwana. 2024. Passive acoustic monitoring in Malawi: A pilot study. USDA Forest Service, Pacific Northwest Research Station.\n\n\nFor a complete list of publications and technical reports, see my CV."
+  }
+]

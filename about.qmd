@@ -2,70 +2,22 @@
 title: "About"
 ---
 
-## Background
-
 I am a wildlife ecologist and data scientist specializing in bioacoustics, machine learning, and conservation biology. Currently pursuing my PhD in Forest Ecosystems and Society at Oregon State University, I work at the intersection of technology and wildlife conservation to develop innovative solutions for monitoring and protecting threatened species.
 
-## Education
+My research leverages machine learning and probabilistic tools to process and analyze bioacoustics data for wildlife conservation and ecosystem monitoring. I work with Dr. Matthew G. Betts and Dr. Damon B. Lesmeister to develop practical tools that help conservation practitioners make data-driven decisions.
 
-### Current
-**Doctor of Philosophy in Forest Ecosystems and Society** (2021–Present)  
-*Oregon State University*  
-Advisors: Dr. Matthew G. Betts, Dr. Damon B. Lesmeister  
-GPA: 3.86
+## Background
 
-### Previous Education
-**Master of Science in Wildlife Science** (2015–2018)  
-*Oregon State University, Department of Fisheries and Wildlife*  
-Advisor: Dr. Clinton W. Epps  
-GPA: 3.86  
-Thesis: "Spatiotemporal associations of abundance and vital rates of co-occurring small mammals in a late successional forest"
+I received my Master of Science in Wildlife Science from Oregon State University in 2018, where I studied spatiotemporal associations of abundance and vital rates of co-occurring small mammals in late successional forests. Prior to that, I earned a Bachelor of Science in Plant Biology from the University of Minnesota and a Geographic Information Systems Certificate from California State University, Fresno.
 
-**Geographic Information Systems Certificate** (2012–2013)  
-*California State University, Fresno*  
-GPA: 3.75
+## Technical Expertise
 
-**Bachelor of Science in Plant Biology** (2004–2009)  
-*University of Minnesota, College of Biological Sciences*  
-GPA: 3.47
+My technical skills span programming languages (R, Python, Julia), machine learning frameworks (PyTorch, Keras, TensorFlow, Jax), and statistical modeling (Bayesian modeling, mark-recapture analysis, occupancy modeling). I also have extensive experience in spatial analysis using ArcGIS and QGIS, as well as field techniques including bioacoustics monitoring, wildlife trapping, and habitat assessment.
 
-## Technical Skills
+## Current Work
 
-### Programming & Analysis
-- **Languages**: R, Python, Julia, BUGS (JAGS, MultiBUGS), Stan
-- **Machine Learning**: PyTorch, Keras, TensorFlow, Jax
-- **Statistics**: Bayesian modeling, mark-recapture analysis, occupancy modeling
-- **Spatial Analysis**: ArcGIS, QGIS, remote sensing
-
-### Field & Laboratory
-- **Bioacoustics**: Passive acoustic monitoring, sound analysis, equipment deployment
-- **Wildlife Techniques**: Live-trapping, radio telemetry, point counts, camera trapping
-- **Habitat Assessment**: Vegetation sampling, environmental monitoring
-- **Field Equipment**: 4WD/ATV operation, small machinery, electronics maintenance
-
-## Professional Experience
-
-**Oak Ridge Institute for Science and Education** (2019–Present)  
-*USDA Forest Service, Pacific Northwest Research Station*  
-- Develop machine learning approaches for bioacoustics analysis
-- Conduct Bayesian analysis of mark-recapture and occupancy data
-- Provide statistical support for research collaborations
-
-**Faculty Research Assistant** (2018–2019)  
-*Oregon State University*  
-- Analyzed mark-recapture, species distribution, and landscape genetics data
-- Prepared manuscripts for peer-reviewed publication
-
-**Independent Environmental Consultant** (2013–2019)  
-- Supported environmental impact assessments for private and utility projects
-- Specialized in threatened species surveys and compliance monitoring
-
-## Awards & Recognition
-
-- **Ph.D. Student Achievement Award**, College of Forestry, Oregon State University (2023)
-- **Jack & Lila Saubert Scholarship**, Oregon State University (2023) - $2,000
-- **Arnold and Vera Meier Forestry Education Scholarship**, Oregon State University (2023) - $2,000
+I currently work as a Research Fellow with the Oak Ridge Institute for Science and Education at the USDA Forest Service, Pacific Northwest Research Station. My work focuses on developing machine learning approaches for bioacoustics analysis and conducting Bayesian analysis of mark-recapture and occupancy data to support research collaborations.
 
 ## Location
 
-Currently based in **Port Townsend, Washington**, conducting field research throughout the Pacific Northwest and collaborating with research teams across North America and internationally.
+I am currently based in **Port Townsend, Washington**, conducting field research throughout the Pacific Northwest and collaborating with research teams across North America and internationally.

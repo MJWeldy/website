@@ -1,25 +1,18 @@
 ---
-title: "Matthew J. Weldy"
+title: "Matthew J. Weldy, PhD Candidate"
 subtitle: "Ecology | Bioacoustics | Wildlife | Estimation"
-image: images/profile.jpg
-about:
-  template: solana
-  image-width: 25em
-  image-shape: round
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:MatthewJWeldy@gmail.com
-    - icon: github
-      text: GitHub
-      href: https://github.com/MJWeldy
-    - icon: mortarboard
-      text: ResearchGate
-      href: https://www.researchgate.net/profile/Matthew-Weldy
-    - icon: file-text
-      text: CV
-      href: cv.qmd
-page-layout: full
 ---
 
-I am a PhD Candidate in Forest Ecosystems and Society at Oregon State University, working with Dr. Matthew G. Betts and Dr. Damon B. Lesmeister. My research focuses on developing machine learning and probabilistic tools to process and analyze bioacoustics data for wildlife conservation and ecosystem monitoring.
+# Matthew J. Weldy, PhD Candidate
+
+**Forest Ecosystems and Society** at Oregon State University
+
+I am a wildlife ecologist and data scientist specializing in bioacoustics, machine learning, and conservation biology. Currently pursuing my PhD at Oregon State University, I work at the intersection of technology and wildlife conservation to develop innovative solutions for monitoring and protecting threatened species.
+
+My **research** leverages machine learning and probabilistic tools to process and analyze bioacoustics data for wildlife conservation and ecosystem monitoring. My **technical expertise** spans Bayesian modeling, spatial analysis, and field ecology, with a focus on developing practical tools for conservation practitioners.
+
+[Learn more about me →](about.qmd)
+
+---
+
+*Currently based in **Port Townsend, Washington**, conducting field research throughout the Pacific Northwest and collaborating with research teams across North America and internationally.*

@@ -9,10 +9,9 @@ website:
   repo-url: https://github.com/MJWeldy/website
   
   navbar:
-    logo: /images/logo.png
     left:
-      - text: "Home"
-        href: index.qmd
+      - text: "About"
+        href: about.qmd
       - text: "Research"
         href: research.qmd
       - text: "Publications"
@@ -25,13 +24,9 @@ website:
       - icon: envelope
         href: mailto:MatthewJWeldy@gmail.com
 
-  sidebar:
-    style: "docked"
-    search: true
-
   page-footer:
     left: "© 2025 Matthew J. Weldy"
-    right: "Built with [Quarto](https://quarto.org/)"
+    right: "Made with [Quarto](https://quarto.org/)"
 
 format:
   html:
@@ -39,8 +34,7 @@ format:
       - cosmo
       - custom.scss
     css: styles.css
-    toc: true
-    toc-location: right
+    toc: false
     code-fold: true
     code-tools: true
     smooth-scroll: true
